@@ -1,0 +1,17 @@
+venv/
+.venv/
+env/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+*.egg-info/
+.git/
+.gitignore
+Dockerfile
+docker-compose.yml
+.DS_Store
+.vscode/
+.idea/
+.pytest_cache/
